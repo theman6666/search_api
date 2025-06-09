@@ -1,11 +1,4 @@
-<!--
- * @Author: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
- * @Date: 2025-06-09 14:57:18
- * @LastEditors: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
- * @LastEditTime: 2025-06-09 15:29:39
- * @FilePath: \class\README.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
+
 # 网页搜索 API
 
 这是一个基于 FastAPI 的网页搜索 API，可以为智能体提供网页搜索功能。
@@ -71,3 +64,4 @@ python search_api.py
    - 使用环境变量管理敏感信息
    - 添加日志记录
    - 实现监控和告警机制 
+
